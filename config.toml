@@ -1,7 +1,7 @@
 # Site settings
 baseurl = "/"
 languageCode = "en-us"
-title = "Okkur - Syna"
+title = "Blorenge Electrical Services"
 theme = "syna"
 enableGitInfo = true
 version = "0.17.2"
@@ -24,8 +24,8 @@ lastmod = ["lastmod", ":git", "date"]
      unsafe = true
 
 [params]
-  name = "Okkur Labs"
-  description = "Open Source Theme for your next project"
+  name = "Blorenge Electrical Services"
+  description = "Domestic and Commercial electrical installations and testing"
 
   [params.style]
     #background = "secondary"

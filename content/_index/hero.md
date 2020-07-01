@@ -6,11 +6,11 @@ weight = 50
 background = "light" # can influence the text color
 particles = true
 
-title = "Syna Theme"
-subtitle = "Showcase your next project"
+title = "Blorenge Electrical Services"
+subtitle = "Commercial and Domestic Electrical Testing and Installation"
 
 [header]
-  image = "header.jpg"
+  image = "blorenge-header.jpg"
 
 [asset]
   image = "logo.svg"

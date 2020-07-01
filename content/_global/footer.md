@@ -14,8 +14,8 @@ menu_title = "Link Title"
   url = "#"
 +++
 
-#### Description Title
+#### Commercial and Domestic testing and installations
 
-Project description such as:
-Open source theme for your next project
-Provided by Okkur Labs
+All work fully insured, and covered by warranty.
+Blorenge Electrical Ltd is a company registered in the United Kingdom.
+Company Number: 12664600

@@ -1,6 +1,6 @@
 +++
 url = "/"
-title = "Syna Theme"
+title = "Blorenge Electrical Services"
 date = "2017-09-07"
-description = "Open Source Theme from Okkur for your next project"
+description = "Commercial and Domestic Electrical Testing and Installation"
 +++

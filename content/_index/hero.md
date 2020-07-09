@@ -4,7 +4,7 @@ fragment = "hero"
 date = "2016-09-07"
 weight = 50
 background = "light" # can influence the text color
-particles = true
+particles = false
 
 title = "Blorenge Electrical Services"
 subtitle = "Commercial and Domestic Electrical Testing and Installation"

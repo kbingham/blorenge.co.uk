@@ -42,10 +42,10 @@ netlify = true
 
 # Optional hidden form fields
 # Fields "page" and "site" will be autofilled
-[[fields.hidden]]
-  name = "page"
+#[[fields.hidden]]
+#  name = "page"
 
-[[fields.hidden]]
-  name = "someID"
-  value = "example.com"
+#[[fields.hidden]]
+#  name = "someID"
+#  value = "example.com"
 +++

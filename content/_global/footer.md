@@ -17,5 +17,5 @@ menu_title = "Link Title"
 #### Commercial and Domestic testing and installations
 
 All work fully insured, and covered by warranty.
-Blorenge Electrical Ltd is a company registered in the United Kingdom.
+Blorenge Electrical Services Ltd is a company registered in the United Kingdom.
 Company Number: 12664600

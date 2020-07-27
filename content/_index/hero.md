@@ -13,7 +13,7 @@ subtitle = "Commercial and Domestic Electrical Testing and Installation"
   image = "blorenge-header.jpg"
 
 [asset]
-  image = "logo.svg"
+  image = "logo.png"
   width = "500px" # optional - will default to image width
   #height = "150px" # optional - will default to image height
 

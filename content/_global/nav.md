@@ -12,6 +12,6 @@ weight = 0
 
 # Branding options
 [asset]
-  image = "logo.svg"
+  image = "logo.png"
   text = "Blorenge"
 +++

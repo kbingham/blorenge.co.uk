@@ -9,7 +9,7 @@ weight = 1200
 
 [asset]
   title = "Blorenge Electrical"
-  image = "logo.svg"
+  image = "logo.png"
   text = "Commercial and Domestic testing and installations"
   url = "#"
 +++

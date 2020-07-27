@@ -5,12 +5,12 @@ date = "2016-09-07"
 weight = 1200
 #background = ""
 
-menu_title = "Link Title"
+#menu_title = "Link Title"
 
 [asset]
-  title = "Logo Title"
+  title = "Blorenge Electrical"
   image = "logo.svg"
-  text = "Logo Subtext"
+  text = "Commercial and Domestic testing and installations"
   url = "#"
 +++
 

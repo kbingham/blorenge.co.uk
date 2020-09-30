@@ -2,6 +2,6 @@
 weight = 10
 
 [asset]
-  image = "nic/domestic-installer.png"
+  image = "nic/NIC logo.jpg"
   #url = "#"
 +++

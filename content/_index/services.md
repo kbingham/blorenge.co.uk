@@ -17,7 +17,7 @@ title = "Services"
  - Fault finding and repairs
  - Emergency call outs
 
-For all enquiries please call 07542 951740 or email: service@blorenge.co.uk
+**For all enquiries please call 07542 951740 or email: service@blorenge.co.uk**
 
 Alternatively please feel free to use the contact form below and we'll get back to you as soon as possible.
 

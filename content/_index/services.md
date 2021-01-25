@@ -16,6 +16,7 @@ title = "Services"
  - Maintenance
  - Fault finding and repairs
  - Emergency call outs
+ - Electric Vehicle Charger point installation
 
 **For all enquiries please call 07542 951740 or email: service@blorenge.co.uk**
 

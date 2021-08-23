@@ -18,8 +18,6 @@ title = "Services"
  - Emergency call outs
  - Electric Vehicle Charger point installation
 
-**For all enquiries please call 07542 951740 or email: service@blorenge.co.uk**
+**For all enquiries please call 07542 951740, 01873 269687 or email: service@blorenge.co.uk**
 
 Alternatively please feel free to use the contact form below and we'll get back to you as soon as possible.
-
-
